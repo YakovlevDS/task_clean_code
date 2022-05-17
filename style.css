@@ -116,7 +116,7 @@ input[type="checkbox"] {
   width: 226px;
 }
 input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 .delete img {
   height: 2em;
@@ -129,17 +129,17 @@ input[type="text"] {
 
 /* done */
 #done label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 input[type=text] {
-  display: none
+  display: none;
 }
 .edit-mode input[type=text] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 .edit-mode label {
   display: none;
