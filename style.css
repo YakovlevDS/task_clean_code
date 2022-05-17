@@ -32,7 +32,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.wrapper {
+.wrap {
   display: flex;
 }
 ul {
@@ -127,8 +127,8 @@ button.delete img:hover {
   transform: rotateZ(0);
 }
 
-/* Completed */
-ul#completed label {
+/* done */
+ul#done label {
   text-decoration: line-through
   color: #888;
 }
