@@ -36,10 +36,12 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
-input,button  {
+input,
+button {
   outline: none;
 }
 .btn {
@@ -51,7 +53,7 @@ input,button  {
   font-family: Lato, sans-serif;
   cursor: pointer;
 }
-.btn :hover {
+.btn:hover {
   color: #3a3A3a;
 }
 
