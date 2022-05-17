@@ -22,7 +22,7 @@ body {
     .header { 
     text-align: center;
   }
-  
+
 }
 .main {
   display: block;
@@ -135,12 +135,12 @@ input[type="text"] {
 
 /* Edit Task */
 input[type=text] {
-  display:none
+  display: none
 }
 .edit-mode input[type=text] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 .edit-mode label {
-  display:none;
+  display: none;
 }
